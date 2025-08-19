@@ -77,7 +77,6 @@ int main (int argc, char*argv[]) {
                             break;
                         }
                     }
-
                 } //ket thuc game 1
                 
                 //game 2
@@ -113,7 +112,6 @@ int main (int argc, char*argv[]) {
                             break;
                         }
                     }
-                
                 } //ket thuc game 2
 
                 //game 3
@@ -147,7 +145,6 @@ int main (int argc, char*argv[]) {
                             break;
                         }
                     }
-
                 } //ket thuc game 3
                 
                 system ("cls");
@@ -216,15 +213,13 @@ int main (int argc, char*argv[]) {
 
                 else {
                     cheDo2 = 0;
-                }
-                
+                }   
             }
-            
-        
         } //ket thuc che do 2
 
         else {
             game = 0;    
         }
-    } //ket thu tro choi
+    }//ket thu tro choi
+    return 0;
 }
