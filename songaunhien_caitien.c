@@ -160,9 +160,7 @@ int main (int argc, char*argv[]) {
                 else {
                     cheDo1 = 0;
                 }
-
             } //ket thuc menu che do 1
-            
         } //ket thuc che do 1
 
         //che do 2
@@ -223,3 +221,4 @@ int main (int argc, char*argv[]) {
     }//ket thu tro choi
     return 0;
 }
+
